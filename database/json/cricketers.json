@@ -1,0 +1,23 @@
+[
+    {
+           "name":"sachin tendulkar",
+           "email":"tendulkar@gmail.com",
+           "age":"50",
+           "city":"Mumbai",
+           "contact":"1234567890"
+    },
+    {
+           "name":"MS Dhoni",
+           "email":"dhoni@gmail.com",
+           "age":"43",
+           "city":"Ranci",
+           "contact":"2345678901"
+    },
+    {
+        "name":"Rohit Sharma",
+        "email":"hitman@gmail.com",
+        "age":"37",
+        "city":"Mumbai",
+        "contact":"3456789012"
+   }
+]   

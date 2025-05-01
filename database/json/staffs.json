@@ -1,0 +1,23 @@
+[
+    {
+        "name":"ram",
+        "email":"ramgmail.com",
+        "contact":"123465789",
+        "salary":"1500",
+        "city":"Ayodhya"
+    },
+    {
+        "name":"Lakshman",
+        "email":"Lakshmangmail.com",
+        "contact":"2345678901",
+        "salary":"1400",
+        "city":"Ayodhya"
+    },
+    {
+        "name":"Bharat",
+        "email":"Bharatgmail.com",
+        "contact":"3456789012",
+        "salary":"1300",
+        "city":"Ayodhya"
+    }
+]

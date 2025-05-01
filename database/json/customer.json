@@ -1,0 +1,20 @@
+[
+    {
+        "name":"Ram",
+        "email":"ramgmail.com",
+        "age":"500",
+        "city":"Ayodhya"
+    },
+    {
+        "name":"lakshman",
+        "email":"lakshmangmail.com",
+        "age":"400",
+        "city":"Ayodhya"
+    },
+    {
+        "name":"Bharat",
+        "email":"Bharatgmail.com",
+        "age":"300",
+        "city":"Ayodhya"
+    }
+]

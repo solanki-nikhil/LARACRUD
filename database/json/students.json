@@ -1,0 +1,23 @@
+[
+    {
+        "name":"ram",
+        "email":"ramgmail.com",
+        "enroll":"214",
+        "age":"500",
+        "city":"Ayodhya"
+    },
+    {
+        "name":"Lakshman",
+        "email":"Lakshmangmail.com",
+        "enroll":"123",
+        "age":"400",
+        "city":"Ayodhya"
+    },
+    {
+        "name":"Bharat",
+        "email":"Bharatgmail.com",
+        "enroll":"345",
+        "age":"300",
+        "city":"Ayodhya"
+    }
+]
