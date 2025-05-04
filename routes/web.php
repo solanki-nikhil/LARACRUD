@@ -6,9 +6,9 @@ use App\Http\Controllers\StudentController;
 use App\Http\Controllers\ActorController;
 use App\Http\Controllers\CustomerController;
 
-// Route::get('/', function () {
-//     return view('welcome');
-// });
+Route::get('/', function () {
+    return view('welcome');
+});
 
 Route::get('/user',[UserController::class,'index'])->name('user');
 Route::get('/user/create',[UserController::class,'create'])->name('user.create');
